@@ -1,0 +1,3 @@
+C:/Users/sunan/CLionProjects/File Handling/cmake-build-debug/CMakeFiles/File_Handling.dir
+C:/Users/sunan/CLionProjects/File Handling/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sunan/CLionProjects/File Handling/cmake-build-debug/CMakeFiles/rebuild_cache.dir
